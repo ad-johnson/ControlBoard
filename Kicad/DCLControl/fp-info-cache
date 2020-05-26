@@ -1,0 +1,197 @@
+43906772458325
+CustomFootprintLibrary
+2512_6332Metric_to_1812_4532Metric_Placeholder_HandSolder
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+CustomFootprintLibrary
+CAP_Elec_10.3x10.3
+SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+CustomFootprintLibrary
+C_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+CustomFootprintLibrary
+Converter_DCDC_Recom_RS6-1205S_THT
+DCDC-Converter, Recom, RS6, Single/Dual output
+DCDC-Converter Recom RS6 Single/Dual_output
+0
+7
+7
+CustomFootprintLibrary
+Crystal_Abracon_ABS07-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal 
+SMD SMT crystal hand-soldering
+0
+2
+2
+CustomFootprintLibrary
+D_SMC_Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+0
+2
+2
+CustomFootprintLibrary
+D_SMF_HandSolder
+Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf
+Diode SMF (DO-214AB)
+0
+2
+2
+CustomFootprintLibrary
+Diode_Bridge_23.0x3.5mm_P5.0mm
+Taiwan Semiconductor GBU rectifier package, 5.08mm pitch, see http://www.farnell.com/datasheets/41665.pdf
+Taiwan Semiconductor GBU rectifier diode bridge
+0
+4
+4
+CustomFootprintLibrary
+L_Bourns_SRP1245A_Handsoldering
+Bourns SRP1245A series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRP1245A.pdf
+Bourns SRP1245A SMD inductor
+0
+2
+2
+CustomFootprintLibrary
+L_Bourns_SRP1770TA_Handsoldering
+Bourns SRP1245A series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRP1245A.pdf
+Bourns SRP1245A SMD inductor
+0
+2
+2
+CustomFootprintLibrary
+L_Coilcraft_SLC7649_Handsoldering
+Choke, SMD, 7.3x7.3mm 4.5mm height
+Choke SMD
+0
+2
+2
+CustomFootprintLibrary
+NetTie-3_2xTHT_1xSMD_Pad1.0mm
+Net tie, 3 pin, 2x 1.0mm round THT pads, 1x1.00 SMD pad
+net tie
+0
+3
+3
+CustomFootprintLibrary
+NetTie-3_2xTHT_1xSMD_Pad1.0mmNoCourtyard
+Net tie, 3 pin, 2x 1.0mm round THT pads, 1x1.00 SMD pad
+net tie
+0
+3
+3
+CustomFootprintLibrary
+PinSocket_1x02_P2.54mm_Vertical
+Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.54mm single row
+0
+2
+2
+CustomFootprintLibrary
+PinSocket_2x02_P2.54mm_Vertical
+Through hole straight socket strip, 2x02, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x02 2.54mm double row
+0
+4
+4
+CustomFootprintLibrary
+PinSocket_2x03_P2.54mm_Vertical
+Through hole straight socket strip, 2x03, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x03 2.54mm double row
+0
+6
+6
+CustomFootprintLibrary
+PinSocket_2x04_P2.54mm_Vertical
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+CustomFootprintLibrary
+PinSocket_2x06_P2.54mm_Vertical
+Through hole straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x06 2.54mm double row
+0
+12
+12
+CustomFootprintLibrary
+R_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+CustomFootprintLibrary
+R_1206_3216Metric_Pad2x1.6mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+CustomFootprintLibrary
+Renata_SMTU_2032-LF_Battery_Holder
+CR2032 Battery Holder
+CR2032 Battery Holder
+0
+2
+2
+CustomFootprintLibrary
+SO-8_3.9x4.9mm_P1.27mm_Hand_Solder
+SO, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+8
+8
+CustomFootprintLibrary
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+CustomFootprintLibrary
+TO-92_Inline_Wide
+TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+CustomFootprintLibrary
+TO-252-2(DPAK)
+TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+DPAK TO-252 DPAK-3 TO-252-3 SOT-428
+0
+7
+3
+CustomFootprintLibrary
+TSOT-23-6_HandSoldering
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6 Hand-soldering
+0
+6
+6
+CustomFootprintLibrary
+TSR1-24xx_TO-220-3
+TO-220-3, Vertical, RM 2.54mm, see https://docs-emea.rs-online.com/webdocs/16ed/0900766b816ed3dd.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+CustomFootprintLibrary
+TSSOP-16_4.4x5mm_P0.65mm
+16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+16
+16

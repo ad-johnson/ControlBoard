@@ -1,0 +1,134 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N62xxA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N630xA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP AD5696R
+D 16-bit I2C ADC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5696R_5695R_5694R.pdf
+$ENDCMP
+#
+$CMP Arduino_Analog_Header_01x06
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP BAT854W
+D Schottky barrier diode, SOT-323
+K schottky diode
+F http://www.farnell.com/datasheets/2342726.pdf?_ga=2.127743885.1650238473.1589997202-1576762007.1566559828
+$ENDCMP
+#
+$CMP GND_Shield
+D Power symbol creates a global label with name "Ground_Shield"
+K power-flag ground gnd clean
+F ~
+$ENDCMP
+#
+$CMP LT3081_TO-220
+D Linear regulator, 1.5A low dropout
+$ENDCMP
+#
+$CMP LT3092xSOT223
+D 200mA 2-Terminal Programmable Current Source, SOT-223
+K current source
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3092fc.pdf
+$ENDCMP
+#
+$CMP LTC1624CS8
+D High Efficiency N-Channel Switching Regulator Controller, SOIC-8
+K Switching Regulator Controller
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1624f.pdf
+$ENDCMP
+#
+$CMP MJD122
+D 8A Ic, 100V Vceo(sus), Silicon Darlington Power NPN Transistor, TO-252 (DPAK)
+K Darlington Power NPN Transistor
+F http://www.farnell.com/datasheets/1744688.pdf?_ga=2.204419344.1650238473.1589997202-1576762007.1566559828
+$ENDCMP
+#
+$CMP OPA4192
+D Quad operational amplifier, 50uV Offset, 0.25uV/C, 35uA Zero-Drift, SOIC-14
+K quad opamp low-power
+F https://www.ti.com/lit/ds/symlink/opa4192.pdf?&ts=1589815702512
+$ENDCMP
+#
+$CMP PWR_RS6_Series_ISODCDC
+D DC-DC Isolator 5V out single/dual supply
+K DC-DC Isolator Dual Single
+F http://www.farnell.com/datasheets/2787814.pdf?_ga=2.35000353.1650238473.1589997202-1576762007.1566559828
+$ENDCMP
+#
+$CMP REF5040
+D 4.096V Voltage Reference
+F http://www.ti.com/lit/ds/symlink/ref5040.pdf
+$ENDCMP
+#
+$CMP Si8602AB-B-IS
+D I2C Isolator, 2.5kVrms, 1 bi-directional channel, 1 uni-directional channel
+K I2c, Isolator, 2.5kVrms
+F https://www.silabs.com/documents/public/data-sheets/Si860x.pdf
+$ENDCMP
+#
+$CMP Si8602AC-B-IS
+D Isolation rating 3.75kVrms
+K 3.75kVrms
+F https://www.silabs.com/documents/public/data-sheets/Si860x.pdf
+$ENDCMP
+#
+$CMP Si8642BD-B-IS
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 5.0kV isolation, Fail-Safe Low, SOIC-16W
+K 4Ch 2In 2Out Quad Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8642BD-B-IS2
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 5.0kV isolation, Fail-Safe Low, 8mm creepage, SOIC-16W
+K 4Ch 2In 2Out Quad Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8642ED-B-IS
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 5.0kV isolation, Fail-Safe High, SOIC-16W
+K 4Ch 2In 2Out Quad Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8642ED-B-IS2
+D Low-Power Quad-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 5.0kV isolation, Fail-Safe High, 8mm creepage, SOIC-16W
+K 4Ch 2In 2Out Quad Digital Isolator 150Mbps
+F https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf
+$ENDCMP
+#
+$CMP Si8661BB-B-IS
+D Low-Power Six-Channel Digital Isolator, 150Mbps, 2.5-5.5V, 2.5kV isolation, Fail-Safe Low, SOIC-16W
+K 6Ch 5Out 1In Digital Isolator 150Mbps
+F http://www.farnell.com/datasheets/2244979.pdf?_ga=2.237387008.1650238473.1589997202-1576762007.1566559828
+$ENDCMP
+#
+$CMP TSR0.5-24XX
+D DC/DC Step-Down Switching Regulator 1A LM78XX replacement
+K 0.5A
+$ENDCMP
+#
+$CMP TSR1-24xx
+D DC/DC Step-Down Switching Regulator 1A LM78XX replacement
+$ENDCMP
+#
+$CMP TVS_Diode_Unidirectional_DO-219AB
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+#End Doc Library
